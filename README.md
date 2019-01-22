@@ -7,7 +7,7 @@ The Protoschool Washington, DC chapter is a group of people passionate about the
 ## Organizers
 
 Our chapter's leadership team includes: 
-* Avinash Kondagunta ([@akondagunta]((https://github.com/akondagunta))
+* Avinash Kondagunta ([@akondagunta](https://github.com/akondagunta))
 * Patrick Gallagher ([@pi0neerpat](https://github.com/pi0neerpat))
 
 ## Code of Conduct
