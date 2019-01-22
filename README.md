@@ -1,10 +1,14 @@
 # ProtoSchool Washington, DC
 
-_TODO: Add a welcome message introducting [ProtoSchool](https://proto.school) and your chapter's activities._
+Welcome to the Washington, DC chapter of [ProtoSchool](https://proto.school)!
+
+The Protoschool Washington, DC chapter is a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!
 
 ## Organizers
 
-_TODO: Introduce your organizer(s)!_
+Our chapter's leadership team includes: 
+* Avinash Kondagunta ([@akondagunta]((https://github.com/akondagunta))
+* Patrick Gallagher ([@pi0neerpat](https://github.com/pi0neerpat))
 
 ## Code of Conduct
 
@@ -13,8 +17,6 @@ contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone.
 
 By participating in this project (online and at live chapter events) you agree to abide by its [Code of Conduct](./CODE_OF_CONDUCT.md).
-
-_TODO: Update the CODE_OF_CONDUCT.md document in this repo with your chapter's Code of Conduct, which should include a section on how to report an incident._
 
 ## License
 
